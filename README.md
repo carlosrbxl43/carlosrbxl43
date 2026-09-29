@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **carlosrbxl43/carlosrbxl43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![carlosrbxl43's GitHub stats](https://github-stats-extended.vercel.app/api?username=carlosrbxl43)](https://github.com/stats-organization/github-stats-extended)
